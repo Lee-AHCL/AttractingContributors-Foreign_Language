@@ -36,3 +36,4 @@ Goal - I want contributors to help me list some favorite programing language
 10. Ocaml
 11. MATLAB
 12. Python
+13. Haskell
