@@ -37,3 +37,4 @@ Goal - I want contributors to help me list some favorite programing language
 11. MATLAB
 12. Python
 13. Haskell
+14. Rust
