@@ -1,8 +1,3 @@
-# Attracting Contributors
-As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
-
-# Rules
-
 1. Please choose a hobby or some interest that you want to build your repository
 2. Make a README to announce this theme (i.e., my favourite video games or anime)
 3. Attract - Go to https://github.com/NAIST-SE/AttractingContributors/discussions, post an interesting message to ask other members to add a list. See example below.
@@ -38,3 +33,4 @@ Goal - I want contributors to help me list some favorite programing language
 12. Python
 13. Haskell
 14. Rust
+15. Lisp
